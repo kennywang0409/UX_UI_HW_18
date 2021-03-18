@@ -1,0 +1,8 @@
+div{
+    display:flex
+    flex-direction: row-reverse
+    
+}
+#categoryGrid{
+    margin:20px
+}
